@@ -39,7 +39,7 @@ public class AppInfo {
         }
     }
 
-    public static void puposhow(String Title, String Message, String url, final Context activity, String value1, String Value2) {
+    public static void updateversion(String Title, String Message, String url, final Context activity, String value1, String Value2) {
         AlertDialog.Builder alertDialog = new AlertDialog.Builder(activity);
         alertDialog.setTitle(Title);
         alertDialog.setMessage(Message);
