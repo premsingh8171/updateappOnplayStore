@@ -1,6 +1,5 @@
 # updateappOnplayStore
 
-device information like your current location, aboutUs, ads, battery, device, memory, Network, Installation app in your device and contact list etc.
 
 <img src="https://github.com/premsingh8171/updateappOnplayStore/blob/master/app/src/main/res/drawable/updateapp.jpeg" width="300" height="550" /> 
 
